@@ -1,5 +1,8 @@
 # tismir_metal_music
-This is the data repository for the TISMIR article **"Charting the universe of metal music lyrics and analysing their relation to perceived audio hardness"** by Isabella Czedik-Eysenberg, Oliver Wieczorek, Arthur Flexer and Christoph Reuter
+This is the data repository for the article:
+
+Czedik-Eysenberg I., Wieczorek O., Flexer A., & Reuter C.: **Charting the Universe of Metal Music Lyrics and Analyzing Their Relation to Perceived Audio Hardness**. Transactions of the International Society for Music Information Retrieval. 2024;7(1), 129–143. [DOI: https://doi.org/10.5334/tismir.182](DOI: https://doi.org/10.5334/tismir.182)
+
 
 The repository consists of three data files, all containing artist, track and MBID information ([MusicBrainz](https://musicbrainz.org/) recording ID). In case MBID information is not available the respective Youtube ID is provided.
 
